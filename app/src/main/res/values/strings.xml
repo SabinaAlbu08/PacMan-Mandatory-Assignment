@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PacmanKotlin</string>
+    <string name="points">Points:</string>
+    <string name="move_right">MOVE RIGHT</string>
+    <string name="timerLeft">Timer</string>
+    <string name="newgame">New Game</string>
+    <string name="move_left">MOVE LEFT</string>
+    <string name="move_up">MOVE UP</string>
+    <string name="move_down">MOVE DOWN</string>
+    <string name="timeLeft">Time Left</string>
+    <string name="pause_button">Pause Game</string>
+    <string name="continue_game">New Game</string>
+    <string name="playing">Game in progress</string>
+
+</resources>
